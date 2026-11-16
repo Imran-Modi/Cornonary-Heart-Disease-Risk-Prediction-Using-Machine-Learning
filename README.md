@@ -20,6 +20,7 @@ The project uses the Framingham Heart Study dataset and implements five machine 
 - [Machine Learning Models](#machine-learning-models)
 - [Model Performance](#model-performance)
 - [Streamlit Application](#streamlit-application)
+- [Application Screenshots](#application-screenshots)
 - [Project Structure](#project-structure)
 - [Installation & Execution](#installation--execution)
 - [Future Improvements](#future-improvements)
