@@ -242,25 +242,25 @@ The project includes an interactive Streamlit web application with the following
 
 **1. Dashboard Overview**
 
-![Dashboard Overview](screenshots/overview.png)
+![Dashboard Overview](CHD%20SS-01.png)
 
 ---
 
 **2. Model Performance Comparison**
 
-![Model Comparison](screenshots/model_comparison.png)
+![Model Comparison](CHD%20SS-02.png)
 
 ---
 
 **3. Confusion Matrix and ROC Curve**
 
-![Model Evaluation](screenshots/model_evaluation.png)
+![Model Evaluation](CHD%20SS-03.png)
 
 ---
 
 **4. Heart Disease Risk Prediction**
 
-![Prediction](screenshots/prediction.png)
+![Prediction](CHD%20SS-04.png)
 
 ---
 
