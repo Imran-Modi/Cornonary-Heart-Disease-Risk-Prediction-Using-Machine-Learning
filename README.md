@@ -379,7 +379,8 @@ This project demonstrates practical skills in Python programming, data preproces
 
 ---
 
-### Author
+### 👤Author
+***Imran Modi***
 
 **Your Name**
 
