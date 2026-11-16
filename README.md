@@ -382,9 +382,5 @@ This project demonstrates practical skills in Python programming, data preproces
 ### 👤Author
 ***Imran Modi***
 
-**Your Name**
-
-GitHub: [YOUR-USERNAME](https://github.com/YOUR-USERNAME)
-
 ⭐ If you find this project useful, please consider giving this repository a star!
 
